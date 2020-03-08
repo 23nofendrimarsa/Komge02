@@ -1,14 +1,15 @@
-bulan,Jumlah Kecelakaan,Meninggal,Luka Berat,Luka Ringan,Kerugian Material
-Januari,52,6,10,69,56300000
-Februari,58,2,11,81,127850000
-Maret,62,4,13,89,70850000
-April,67,7,21,85,120750000
-Mei,39,6,7,56,6250000
-Juni,44,5,4,74,85800000
-Juli,54,3,6,74,62850000
-Agustus,68,10,8,86,116400000
-September,50,8,4,69,5200000
-Oktober,60,4,8,97,68000000
-November,60,8,4,79,57050000
-Desember,49,84,62,88115000
-Jumlah,663,71,100,808,88115000
+;Jumlah Kecelakaan;Meninggal;Luka Berat;Luka Ringan;Kerugian Material
+;2018;2018;2018;2018;2018
+Januari;52;6;10;69;56300000
+Februari;58;2;11;81;127850000
+Maret;62;4;13;89;70850000
+April;67;7;21;85;120750000
+Mei;39;6;7;56;26250000
+Juni;44;5;4;74;85800000
+Juli;54;3;6;74;62850000
+Agustus;68;10;8;86;116400000
+September;50;8;4;69;5200000
+Oktober;60;4;8;97;68000000
+November;60;8;4;79;57050000
+Desember;49;8;4;62;88115000
+Jumlah;663;71;100;808;88115000
